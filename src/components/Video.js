@@ -12,7 +12,7 @@ function Video() {
                 <h1>GLX Trading</h1>
                 <p>Learn Trading and change your life</p>
                 <div>
-                    <Link to='/training' className='btn'>Training</Link>
+                    <Link to='/pricing' className='btn'>Prices</Link>
                     <Link to='/contact' className='btn btn-light'>Launch</Link>
                 </div>
             </div>
